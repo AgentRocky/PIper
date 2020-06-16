@@ -713,7 +713,7 @@ client.connect((err, Mdb)=> {
                     }
                 });
                 
-                bot.login(NzIyMDI5OTA1MTk3NTMxMTQ3.Xuhg2A.Bjz2I3MgpLvRIrTyuruuhT0u7kM);
+                bot.login(NzIyMDI5OTA1MTk3NTMxMTQ3.Xuhjgw.i0ak5tOgSq4QHMGRdGV6w6GUQ8M);
             });
         });
     }
