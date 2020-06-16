@@ -7,8 +7,7 @@ module.exports.run = async(bot, message, args, db) =>{
         .setAuthor(`About Prime`,bot.user.avatarURL)
         .setColor(color.set("blue"))
         .setDescription
-        (`Moderation and utility bot made by **${res[0].otag}** for make your server more better. If you enjoy with this bot, or you want to leave some feedback, you can type \`suggest\` commands!
-        \n[Invite Link](https://discordapp.com/api/oauth2/authorize?client_id=574904520828649487&permissions=8&scope=bot) | [Join Server](https://discord.gg/YnttpcR) | [Commands List](https://github.com/Zlarex/Prime/wiki/Command-List)`);
+        (`Moderation and utility bot made by Ekam#2488. If you enjoy with this bot, or you want to leave some feedback, you can typeit in the Feedbacks channel!`);
 
         message.channel.send(embed);
     });
