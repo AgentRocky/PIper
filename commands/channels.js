@@ -17,7 +17,7 @@ module.exports.run = async(bot, message, args, db) =>{
 	.setAuthor(`Channel List`)
 	.setColor(color.set('blue'))
 	.setFooter(message.guild.id, message.guild.iconURL)
-	.setDescription(`All channels in this guild:\n${channels}`);
+	.setDescription(`All channels in this Server:\n${channels}`);
 	
 	message.channel.send(embed);
 }
