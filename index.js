@@ -1,14 +1,12 @@
 /*
     [ PRIME - CORE DATA ]
         
-        Author          : Zan#0610
-        Date Created    : Tue, 07-05-2019
+        Author          : Ekam#2488
+        Date Created    : Tue, 16-06-2020
         Framework       : Node.js
         Language        : Javascript
         Lifetime        : 550 Hours/Month - No Credit
         Storage         : Mongodb Atlas
-        Discord Server  : discord.io/primebot
-        Support E-mail  : (None)
         GitHub          : (Private)
     [ PRIME - CORE DATA ]
 */
